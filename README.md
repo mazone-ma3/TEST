@@ -8,6 +8,6 @@ CLANGMSX　CLANGテストプログラム
 
 STARFALL　ドットの流れるデモ
 
-MSXSC　各機種.SCローダー（パレット固定）
+MSXSC　各機種.SC?ローダー（パレット固定）
 
 MAG_2　低速MAGローダー
