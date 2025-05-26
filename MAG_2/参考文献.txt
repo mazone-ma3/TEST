@@ -1,0 +1,11 @@
+参考
+HTMLまぐろーだー
+http://emk.name/2015/03/magjs.html
+M5Stack : MAG画像ファイルローダー
+https://shikarunochi.matrix.jp/?p=3878
+鮪フォーマット解説
+http://metanest.jp/mag/mag.xhtml
+FSW倉庫 MERON氏作
+http://sakuramail.net/fswold/meron.html
+LSX-DodgersのMAG.ASM
+VectorのMAG.EXEとMAGD.EXE
